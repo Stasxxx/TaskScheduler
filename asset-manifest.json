@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TaskScheduler/static/css/main.20e7aefc.css",
-    "main.js": "/TaskScheduler/static/js/main.9820d695.js",
+    "main.js": "/TaskScheduler/static/js/main.5573666b.js",
     "index.html": "/TaskScheduler/index.html",
     "main.20e7aefc.css.map": "/TaskScheduler/static/css/main.20e7aefc.css.map",
-    "main.9820d695.js.map": "/TaskScheduler/static/js/main.9820d695.js.map"
+    "main.5573666b.js.map": "/TaskScheduler/static/js/main.5573666b.js.map"
   },
   "entrypoints": [
     "static/css/main.20e7aefc.css",
-    "static/js/main.9820d695.js"
+    "static/js/main.5573666b.js"
   ]
 }
